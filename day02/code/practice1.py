@@ -1,6 +1,9 @@
 """
 练习1：华氏温度转摄氏温度
 公式：F = 1.8C + 32
+
+Version: 1.0
+Author: Jalan
 """
 
 f = float(input("请输入华氏温度："))
