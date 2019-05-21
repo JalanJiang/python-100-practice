@@ -10,9 +10,9 @@ Python - 100天从新手到大师 个人学习笔记与实践。
 
 ## 课程列表
 
-### Day01~15 - [Python语言基础](./Day01-15)
+### Day01~15 - [Python语言基础](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15)
 
-#### ✅ Day01 - [初识Python](./Day01-15/Day01/初识Python.md) 
+#### ✅ Day01 - [初识Python](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day01/初识Python.md) 
 
 - [x] Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - [x] 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
@@ -22,7 +22,7 @@ Python - 100天从新手到大师 个人学习笔记与实践。
 
 学习笔记：[Day01 学习笔记](/day01/index.md)
 
-#### ✅ Day02 - [语言元素](./Day01-15/Day02/语言元素.md)
+#### ✅ Day02 - [语言元素](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day02/语言元素.md)
 
 - [x] 程序和进制 - 指令和程序 / 冯诺依曼机 / 二进制和十进制 / 八进制和十六进制
 - [x] 变量和类型 - 变量的命名 / 变量的使用 / input函数 / 检查变量类型 / 类型转换
@@ -33,7 +33,7 @@ Python - 100天从新手到大师 个人学习笔记与实践。
 
 学习笔记：[Day02 学习笔记](/day02/index.md)
 
-#### ✅ Day03 - [分支结构](./Day01-15/Day03/分支结构.md)
+#### ✅ Day03 - [分支结构](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day03/分支结构.md)
 
 - [x] 分支结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - [x] if语句 - 简单的if / if-else结构 / if-elif-else结构 / 嵌套的if
@@ -41,7 +41,7 @@ Python - 100天从新手到大师 个人学习笔记与实践。
 
 学习笔记：[Day03 学习笔记](/day03/index.md)
 
-#### ✅ Day04 - [循环结构](./Day01-15/Day04/循环结构.md)
+#### ✅ Day04 - [循环结构](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day04/循环结构.md)
 
 - [x] 循环结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - [x] while循环 - 基本结构 / break语句 / continue语句
