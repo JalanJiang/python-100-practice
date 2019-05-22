@@ -1,4 +1,4 @@
-<p align="center"><img width="100px" src="https://www.easyicon.net/api/resizeApi.php?id=1207033&size=128"></p>
+<p align="center"><img width="100px" src="./img/icon.png"></p>
 
 # Python 100 Pratice
 
