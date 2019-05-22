@@ -50,10 +50,12 @@ Python - 100天从新手到大师 个人学习笔记与实践。
   
 学习笔记：[Day04 学习笔记](/day04/index.md)
 
-#### Day05 - [总结和练习](./Day01-15/Day05/总结和练习.md)
+#### ✅ Day05 - [总结和练习](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day05/总结和练习.md)
 
-- 基础练习 - 水仙花数 / 完美数 / 五人分鱼 / Fibonacci数列 / 回文素数 
-- 综合练习 - Craps赌博游戏
+- [x] 基础练习 - 水仙花数 / 完美数 / 五人分鱼 / Fibonacci数列 / 回文素数 
+- [x] 综合练习 - Craps赌博游戏
+
+学习笔记：[Day05 学习笔记](/day05/index.md)
 
 #### Day06 - [函数和模块的使用](./Day01-15/Day06/函数和模块的使用.md)
 
