@@ -13,7 +13,7 @@ Date: 2019-05-22
 """
 import random
 
-def getRandomNum():
+def get_random_num():
     num = random.randint(1, 6) + random.randint(1, 6)
     print("摇骰子点数为 %d" % num)
     return num
@@ -29,7 +29,7 @@ while money > 0:
         if debt > 0 and debt <= money:
             break
 
-    first_num = getRandomNum()
+    first_num = get_random_num()
     if first_num == 7 or first_num == 11:
         money += debt
         print("本轮结束，玩家胜")
@@ -37,7 +37,7 @@ while money > 0:
         money -= debt
         print("本轮结束，庄家胜")
     else:
-        second_num = getRandomNum()
+        second_num = get_random_num()
         if second_num == 7:
             money -= debt
             print("本轮结束，庄家胜")
