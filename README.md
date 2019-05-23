@@ -14,15 +14,17 @@ Python 100 天从新手到大师个人学习笔记与实践。
 
 #### ✅ Day01 - [初识Python](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day01/初识Python.md) 
 
+学习笔记：[Day01 学习笔记](/day01/index.md)
+
 - [x] Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - [x] 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
 - [x] 从终端运行Python程序 - DOS命令 / Hello, world / print函数 / 运行程序
 - [x] 使用IDLE - 交互式环境(REPL) / 编写多行代码 / 运行程序 / 退出IDLE
 - [x] 注释 - 注释的作用 / 单行注释 / 多行注释
 
-学习笔记：[Day01 学习笔记](/day01/index.md)
-
 #### ✅ Day02 - [语言元素](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day02/语言元素.md)
+
+学习笔记：[Day02 学习笔记](/day02/index.md)
 
 - [x] 程序和进制 - 指令和程序 / 冯诺依曼机 / 二进制和十进制 / 八进制和十六进制
 - [x] 变量和类型 - 变量的命名 / 变量的使用 / input函数 / 检查变量类型 / 类型转换
@@ -31,31 +33,29 @@ Python 100 天从新手到大师个人学习笔记与实践。
 - [x] 应用案例 - 华氏温度转换成摄氏温度 / 输入圆的半径计算周长和面积 / 输入年份判断是否是闰年
 - [ ] 复习冯诺依曼机
 
-学习笔记：[Day02 学习笔记](/day02/index.md)
-
 #### ✅ Day03 - [分支结构](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day03/分支结构.md)
+
+学习笔记：[Day03 学习笔记](/day03/index.md)
 
 - [x] 分支结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - [x] if语句 - 简单的if / if-else结构 / if-elif-else结构 / 嵌套的if
 - [x] 应用案例 - 用户身份验证 / 英制单位与公制单位互换 / 掷骰子决定做什么 / 百分制成绩转等级制 / 分段函数求值 / 输入三条边的长度如果能构成三角形就计算周长和面积
 
-学习笔记：[Day03 学习笔记](/day03/index.md)
-
 #### ✅ Day04 - [循环结构](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day04/循环结构.md)
+
+学习笔记：[Day04 学习笔记](/day04/index.md)
 
 - [x] 循环结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - [x] while循环 - 基本结构 / break语句 / continue语句
 - [x] for循环 - 基本结构 / range类型 / 循环中的分支结构 / 嵌套的循环 / 提前结束程序 
 - [x] 应用案例 - 1~100求和 / 判断素数 / 猜数字游戏 / 打印九九表 / 打印三角形图案 / 猴子吃桃 / 百钱百鸡（？？？好像没有看到 猴子吃桃 / 百钱百鸡）
-  
-学习笔记：[Day04 学习笔记](/day04/index.md)
 
 #### ✅ Day05 - [总结和练习](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day05/总结和练习.md)
 
+学习笔记：[Day05 学习笔记](/day05/index.md)
+
 - [x] 基础练习 - 水仙花数 / 完美数 / 五人分鱼 / Fibonacci数列 / 回文素数 
 - [x] 综合练习 - Craps赌博游戏
-
-学习笔记：[Day05 学习笔记](/day05/index.md)
 
 #### ✅ Day06 - [函数和模块的使用](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day06/函数和模块的使用.md)
 
