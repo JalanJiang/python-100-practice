@@ -148,4 +148,5 @@ Powered By Love~ ❤️
 ## 其他资料
 
 - [python定义类()中写object和不写的区别](https://www.cnblogs.com/wujingqiao/p/9668583.html)
+- [Python class inherits object](https://stackoverflow.com/questions/4015417/python-class-inherits-object)
 
