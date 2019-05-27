@@ -43,7 +43,7 @@ Python 100 天从新手到大师个人学习笔记与实践。
 
 #### ✅ Day04 - [循环结构](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/Day04/循环结构.md)
 
-学习笔记：[Day04 学习笔记](/day04/index.md)
+学习笔记：[Day04 学习笔记](/day04/i
 
 - [x] 循环结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - [x] while循环 - 基本结构 / break语句 / continue语句
@@ -125,12 +125,14 @@ Python 100 天从新手到大师个人学习笔记与实践。
 - [x] 数据持久化 - CSV文件概述 / csv模块的应用 / JSON数据格式 / json模块的应用
 - [ ] 综合案例 - 歌词解析
 
-#### Day12 - [字符串和正则表达式](./Day01-15/Day12/字符串和正则表达式.md)
+#### ✅ Day12 - [字符串和正则表达式](./Day01-15/Day12/字符串和正则表达式.md)
 
-- 字符串高级操作 - 转义字符 \ 原始字符串 \ 多行字符串 \ in和 not in运算符 \ is开头的方法 \ join和split方法 \ strip相关方法 \ pyperclip模块 \ 不变字符串和可变字符串 \ StringIO的使用
-- 正则表达式入门 - 正则表达式的作用 \ 元字符 \ 转义 \ 量词 \ 分组 \ 零宽断言 \贪婪匹配与惰性匹配懒惰 \ 使用re模块实现正则表达式操作（匹配、搜索、替换、捕获）
-- 使用正则表达式 - re模块 \ compile函数 \ group和groups方法 \ match方法 \ search方法 \ findall和finditer方法 \ sub和subn方法 \ split方法
-- 应用案例 - 使用正则表达式验证输入的字符串
+学习笔记：[Day12 学习笔记](/day12/index.md)
+
+- [ ] 字符串高级操作 - 转义字符 \ 原始字符串 \ 多行字符串 \ in和 not in运算符 \ is开头的方法 \ join和split方法 \ strip相关方法 \ pyperclip模块 \ 不变字符串和可变字符串 \ StringIO的使用
+- [x] 正则表达式入门 - 正则表达式的作用 \ 元字符 \ 转义 \ 量词 \ 分组 \ 零宽断言 \贪婪匹配与惰性匹配懒惰 \ 使用re模块实现正则表达式操作（匹配、搜索、替换、捕获）
+- [x] 使用正则表达式 - re模块 \ compile函数 \ group和groups方法 \ match方法 \ search方法 \ findall和finditer方法 \ sub和subn方法 \ split方法
+- [ ] 应用案例 - 使用正则表达式验证输入的字符串
 
 #### Day13 - [进程和线程](./Day01-15/Day13/进程和线程.md)
 
