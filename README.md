@@ -134,11 +134,11 @@ Python 100 天从新手到大师个人学习笔记与实践。
 - [x] 使用正则表达式 - re模块 \ compile函数 \ group和groups方法 \ match方法 \ search方法 \ findall和finditer方法 \ sub和subn方法 \ split方法
 - [ ] 应用案例 - 使用正则表达式验证输入的字符串
 
-#### Day13 - [进程和线程](./Day01-15/Day13/进程和线程.md)
+#### ✅ Day13 - [进程和线程](./Day01-15/Day13/进程和线程.md)
 
-- 进程和线程的概念 - 什么是进程 / 什么是线程 / 多线程的应用场景
-- 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
-- 使用线程 - thread模块 / threading模块 / Thread类 / Lock类 / Condition类 / 线程池
+- [x] 进程和线程的概念 - 什么是进程 / 什么是线程 / 多线程的应用场景
+- [x] 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
+- [x] 使用线程 - thread模块 / threading模块 / Thread类 / Lock类 / Condition类 / 线程池
 
 #### Day14-A - [网络编程入门](./Day01-15/Day14-A/网络编程入门.md)
 
