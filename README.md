@@ -136,15 +136,19 @@ Python 100 天从新手到大师个人学习笔记与实践。
 
 #### ✅ Day13 - [进程和线程](./Day01-15/Day13/进程和线程.md)
 
+学习笔记：[Day13 学习笔记](/day13/index.md)
+
 - [x] 进程和线程的概念 - 什么是进程 / 什么是线程 / 多线程的应用场景
 - [x] 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
 - [x] 使用线程 - thread模块 / threading模块 / Thread类 / Lock类 / Condition类 / 线程池
 
 #### Day14-A - [网络编程入门](./Day01-15/Day14-A/网络编程入门.md)
 
-- 计算机网络基础 - 计算机网络发展史 / “TCP-IP”模型 / IP地址 / 端口 / 协议 / 其他相关概念
-- 网络应用架构 - “客户端-服务器”架构 / “浏览器-服务器”架构
-- Python网络编程 - 套接字的概念 / socket模块 /  socket函数 / 创建TCP服务器 / 创建TCP客户端 / 创建UDP服务器 / 创建UDP客户端 / SocketServer模块
+学习笔记：[Day14-A 学习笔记](/day14-a/index.md)
+
+- [x] 计算机网络基础 - 计算机网络发展史 / “TCP-IP”模型 / IP地址 / 端口 / 协议 / 其他相关概念
+- [x] 网络应用架构 - “客户端-服务器”架构 / “浏览器-服务器”架构
+- [x] Python网络编程 - 套接字的概念 / socket模块 /  socket函数 / 创建TCP服务器 / 创建TCP客户端 / 创建UDP服务器 / 创建UDP客户端 / SocketServer模块
 
 #### Day14-B - [网络应用开发](./Day01-15/Day14-B/网络应用开发.md)
 
