@@ -142,7 +142,7 @@ Python 100 天从新手到大师个人学习笔记与实践。
 - [x] 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
 - [x] 使用线程 - thread模块 / threading模块 / Thread类 / Lock类 / Condition类 / 线程池
 
-#### Day14-A - [网络编程入门](./Day01-15/Day14-A/网络编程入门.md)
+#### ✅ Day14-A - [网络编程入门](./Day01-15/Day14-A/网络编程入门.md)
 
 学习笔记：[Day14-A 学习笔记](/day14-a/index.md)
 
@@ -152,10 +152,25 @@ Python 100 天从新手到大师个人学习笔记与实践。
 
 #### Day14-B - [网络应用开发](./Day01-15/Day14-B/网络应用开发.md)
 
-- 访问网络API - 网络API概述 / 访问URL / requests模块 / 解析JSON格式数据
-- 文件传输 - FTP协议 / ftplib模块 / 交互式FTP应用
-- 电子邮件 - SMTP协议 / POP3协议 / IMAP协议 / smtplib模块 / poplib模块 / imaplib模块
-- 短信服务 - twilio模块 / 国内的短信服务
+- 访问网络API
+  - 网络API概述
+  - 访问URL
+  - requests模块
+  - 解析JSON格式数据
+- 文件传输
+  - FTP协议
+  - ftplib模块
+  - 交互式FTP应用
+- 电子邮件
+  - [x] SMTP协议
+  - POP3协议
+  - IMAP协议
+  - [x] smtplib模块
+  - poplib模块
+  - imaplib模块
+- 短信服务
+  - twilio模块
+  - [x] 国内的短信服务
 
 #### Day15 - [图像和文档处理](./Day01-15/Day15/图像和办公文档处理.md)
 
